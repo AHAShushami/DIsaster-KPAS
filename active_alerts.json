@@ -1,0 +1,14 @@
+{
+    "last_updated": "2026-05-26T11:00:28.954648",
+    "met_warnings": [
+        {
+            "source": "MET Malaysia",
+            "type": "Weather Warning",
+            "title": "Amaran Ribut Petir",
+            "text": "Ribut petir, hujan lebat dan angin kencang dijangka di kawasan perairan Perlis & Kedah, Johor Timur dan Sabah Barat dan Labuan sehingga 2:00 petang; Selasa, 26 Mei 2026.",
+            "valid_from": "2026-05-26T10:00:00",
+            "valid_to": "2026-05-26T14:00:00"
+        }
+    ],
+    "flood_warnings": []
+}
